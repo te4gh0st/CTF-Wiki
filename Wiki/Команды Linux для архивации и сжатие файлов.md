@@ -64,7 +64,7 @@ tar -xvf archive.tar -C /tmp
 Распаковать архив в /tmp
 
 ```bash
-tar -cvfz archive.tar.gz dir1
+tar -cvzf archive.tar.gz dir1
 ```
 Создать tar архив и сжать его с помощью программы gzip
 
